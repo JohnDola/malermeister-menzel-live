@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.malermeister-menzel.de/sitemap-index.xml
